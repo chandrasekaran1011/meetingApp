@@ -15,7 +15,10 @@
         "laravel/framework": "^7.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
-        "tymon/jwt-auth": "^1.0"
+        "spatie/laravel-permission": "^3.13",
+        "tymon/jwt-auth": "^1.0",
+        "yadahan/laravel-authentication-log": "^1.2",
+        "arcanedev/log-viewer": "^7.0"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
